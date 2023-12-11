@@ -1,0 +1,153 @@
+{
+  "company": {
+    "name": "ReproCreate",
+    "logo": "/assets/images/logoNW.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get Early Access",
+    "href": "pricing"
+  },
+  "mainHero": {
+    "title": "All-Inclusive Family Planning with",
+    "subtitle": "ReproCreate",
+    "description": "Ensuring universal access to family planning via quality education, and effortless access to family planning services.",
+    "img": "/assets/images/okay.jpg",
+    "primaryAction": {
+      "text": "Get Early Access",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Contact us",
+      "href": "mailto:reprocreate@gmail.com?subject="
+    }
+  },
+  "product": {
+    "title": "Product and Services",
+    "items": [
+      {
+        "title": "Proper Education",
+        "description": "Non-gender selective interactive and relatable sexual and reproductive health education in preferred language .",
+        "img": "/assets/images/pro2.png"
+      },
+      {
+        "title": "Order Contraceptives Discreetly",
+        "description": "Offer family planning services such as ordering a contraceptive from nearby pharmacy discreetly, and consulting an expert. ",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Expert Consultation",
+        "description": "Offer family planning services such as ordering a contraceptive from nearby pharmacy discreetly, and consulting an expert. ",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Unique features",
+    "subtitle": "Why we stand out!",
+    "description": "An all-inclusive family planning approach which offers quality education, and discreet access to family planning services.",
+    "items": [
+      {
+        "name": "Offline Access with USSD",
+        "description": "Ensures uninterrupted access to our services and in underserved internet connection areas thereby contributing to a holistic approach to enhancing universal family planning coverage.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "ReproLearn",
+        "description": "Non-gender selective interactive and relatable sexual and reproductive health education in preferred language .",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Alternate Reminders",
+        "description": "Contraceptive pill reminders powered by a WhatsApp chat bot ensures reminders are not lost in pool of push up notifications.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Personalized Contraceptive Suggestions",
+        "description": "Users inputs relevant information to get perfect contraceptive suggestions thereby removing fear of Removes the fear of side effects .",
+        "icon": "/assets/images/react.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/",
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  }
+}
